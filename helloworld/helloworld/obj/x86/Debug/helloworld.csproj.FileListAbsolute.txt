@@ -1,0 +1,6 @@
+/Users/yohai.azriel/test/helloworld/helloworld/bin/Debug/helloworld.exe
+/Users/yohai.azriel/test/helloworld/helloworld/bin/Debug/helloworld.pdb
+/Users/yohai.azriel/test/helloworld/helloworld/obj/x86/Debug/helloworld.csprojAssemblyReference.cache
+/Users/yohai.azriel/test/helloworld/helloworld/obj/x86/Debug/helloworld.csproj.CoreCompileInputs.cache
+/Users/yohai.azriel/test/helloworld/helloworld/obj/x86/Debug/helloworld.exe
+/Users/yohai.azriel/test/helloworld/helloworld/obj/x86/Debug/helloworld.pdb
